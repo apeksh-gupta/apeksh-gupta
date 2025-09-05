@@ -12,7 +12,7 @@
 ## 🌟 About Me  
 🎓 Final-year **Computer Science Student at JECRC College**  
 💻 Passionate about **Full-Stack Web Development & Machine Learning**  
-📈 Solved **350+ DSA problems** across LeetCode, CodeChef & GFG  
+📈 Solved **450+ DSA problems** across LeetCode, CodeChef & GFG  
 ✨ Love building **real-world impactful projects** using AI + Web  
 ⚡ Fun fact: I enjoy coding challenges & mentoring peers  
 
@@ -67,7 +67,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/apeksh-gupta"><img src="https://img.shields.io/badge/-Apeksh%20Gupta-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/-apekshgupta@gmail.com-red?style=flat&logo=Gmail&logoColor=white" /></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/-apekshgupta00@gmail.com-red?style=flat&logo=Gmail&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=firefox&logoColor=white" /></a>
 </p>
 
