@@ -63,9 +63,6 @@
   <img src="https://streak-stats.demolab.com?user=apeksh-gupta&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=apeksh-gupta&theme=onestar&row=1&no-frame=true&margin-w=15" />
-</p>
 
 ---
 
