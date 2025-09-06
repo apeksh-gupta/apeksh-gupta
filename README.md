@@ -34,7 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=apeksh-gupta&repo=Renaissance-college-fest&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/apeksh-gupta/HEALTH-PREDICTION-CHATBOT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=apeksh-gupta&repo=Multiple-Disease-Prediction&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=apeksh-gupta&repo=HEALTH-PREDICTION-CHATBOT&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
