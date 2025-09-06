@@ -12,7 +12,7 @@
 
 🎓 Final-year **Computer Science Student at JECRC College**  
 ⚡ Passionate about **Full-Stack Web Development & AI/ML**  
-📈 Solved **350+ DSA problems** on LeetCode, CodeChef & GFG  
+📈 Solved **450+ DSA problems** on LeetCode, CodeChef & GFG  
 🌱 Currently diving into **Generative AI + MERN Stack**  
 🎯 Aspiring **Software Engineer who blends AI with Web**  
 
