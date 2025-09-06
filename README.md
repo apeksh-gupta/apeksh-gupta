@@ -33,7 +33,7 @@
 <a href="https://github.com/apeksh-gupta/Renaissance-college-fest">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=apeksh-gupta&repo=Renaissance-college-fest&theme=tokyonight&hide_border=true" />
 </a>
-<a href="#">
+<a href="https://github.com/apeksh-gupta/HEALTH-PREDICTION-CHATBOT">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=apeksh-gupta&repo=Multiple-Disease-Prediction&theme=tokyonight&hide_border=true" />
 </a>
 
@@ -63,11 +63,6 @@
 </p>
 
 ---
-
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://github.com/apeksh-gupta/apeksh-gupta/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
