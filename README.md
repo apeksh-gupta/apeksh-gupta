@@ -37,6 +37,10 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=apeksh-gupta&repo=HEALTH-PREDICTION-CHATBOT&theme=tokyonight&hide_border=true" />
 </a>
 
+<a href="https://github.com/apeksh-gupta/personalised_birthday_website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=apeksh-gupta&repo=personalised_birthday_website&theme=tokyonight&hide_border=true" />
+</a>
+
 </div>
 
 ---
