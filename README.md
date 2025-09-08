@@ -44,6 +44,12 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=apeksh-gupta&repo=StudentCouncil_Website-main&theme=tokyonight&hide_border=true" />
 </a>
 
+<a href="https://github.com/apeksh-gupta/DSA-TRACKER">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=apeksh-gupta&repo=DSA-TRACKER&theme=tokyonight&hide_border=true" />
+</a>
+
+
+
 
 
 
