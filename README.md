@@ -3,7 +3,7 @@
 <h3 align="center">💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🚀 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Apps;Exploring+AI+%2B+ML;350%2B+DSA+Problems+Solved;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Apps;Exploring+AI+%2B+ML;450%2B+DSA+Problems+Solved;Always+Learning+New+Things" />
 </p>
 
 ---
